@@ -1,6 +1,6 @@
 
-## Hi! I'm Lara Galaz 👋
-#### Junior Web Designer 💻:exploding_head:
+## Hi! I'm Lara Galaz 
+#### Junior Web Designer :exploding_head:
 ###### and i hate programming but i love money so i'm doing my best :smiling_face_with_tear:
 
 
