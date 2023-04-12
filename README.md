@@ -1,7 +1,7 @@
 
-### Hi! I'm Lara Galaz 👋
-#### Junior Web Designer 💻♨️
-# and i hate programming but i love money so i'm doing my best
+## Hi! I'm Lara Galaz 👋
+### Junior Web Designer 💻♨️
+##### and i hate programming but i love money so i'm doing my best
 
 
 
